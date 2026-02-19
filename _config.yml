@@ -1,1 +1,4 @@
-theme: minimal-mistakes-jekyll
+title: "Website of the Surface Reaction Modelling Group"
+description: "Short description of your site"
+url: "https://surf-react.github.io"
+baseurl: ""
